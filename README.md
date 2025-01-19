@@ -1,6 +1,6 @@
 How it works
 commands
-/balance \n
+/balance 
 /buy "product name" 
 /checkinvoice "invoice id" 
 /invoice "amount"
